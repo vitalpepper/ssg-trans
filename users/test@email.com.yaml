@@ -1,0 +1,7 @@
+name: Test
+super: true
+id: 4aa6732b-0525-4961-8559-3884c682a0ff
+password_hash: $2y$12$BSs3ah2SYZYP5aPQY6MLh.kNL5aTWumTqAZm6/oi8WpClJHjSwoaK
+preferences:
+  locale: en
+  favorites: {  }
